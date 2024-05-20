@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr">
 <body style="background-color:black;">
-<title>bored with it</title>
+<title>nervous, sad, poor</title>
 <style>
 
 div.container {
@@ -74,13 +74,13 @@ background-color: #000000;
 <br>
 <h2><a href="https://www.youtube.com/@haus.ov.versiv">NOW ON YOUTUBE (IN 4K!!!)</a></h2>
 <br><br><br>
-<p>as if you fucking idiots could understand</p>
+<p>xXx xXx xXx</p>
 <br><br><br>
 <a href="nyc1.html"><h2>HERE, IDIOTS, A STREAM OF CONCIOUSNESS PIECE</h2></a>
 <br>
 <h3><a href="mailto:versiv.haus@proton.me">Send Email</a>
 <br><br><br>
-<p>ooooooooooh, a statement piece!!!</p>
+<p>‡‡‡‡‡‡      ‡‡‡‡‡‡      ‡‡‡‡‡‡</p>
 <br>
 <h2>@auntie.fascist is:</h2>s
 <br>
@@ -103,7 +103,7 @@ background-color: #000000;
 
 
 
-
+<a href="indexold.html"><p>OLD SHIT, NEW SHIT, AIN'T NEVER GONNA BE SHIT</p></a>
 
 
 <!---
@@ -113,4 +113,5 @@ and kill all politicians...
 scope this, fucko ;)
 --->
 </div>
+
 
